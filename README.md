@@ -1,1 +1,2 @@
-# New Repository created on Loacl machine
+# New Repository
+Code is created New
