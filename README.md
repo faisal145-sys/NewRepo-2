@@ -1,2 +1,2 @@
 # New Repository
-Code is created New
+Code is created New!
